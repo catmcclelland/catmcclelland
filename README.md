@@ -17,9 +17,4 @@
 ## What I've Been Spending My Time On This Week
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
