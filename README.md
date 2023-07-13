@@ -8,4 +8,12 @@
 ## What I've Been Spending My Time On This Week
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   4 hrs 47 mins   ███████████████████████▓░   94.36 %
+JavaScript   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+```
+
 <!--END_SECTION:waka-->
