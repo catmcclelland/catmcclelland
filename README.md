@@ -10,7 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+ActionScript 3   31 mins         ███████████▒░░░░░░░░░░░░░   45.19 %
+TypeScript       25 mins         █████████▒░░░░░░░░░░░░░░░   36.97 %
+SQL              4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+Bash             3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+YAML             3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
 ```
 
 <!--END_SECTION:waka-->
